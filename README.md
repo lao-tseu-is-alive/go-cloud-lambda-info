@@ -66,3 +66,9 @@ now the file response.txt contains the result of your call :
 +  [Aws documentation for building Lambda functions in Go](https://docs.aws.amazon.com/lambda/latest/dg/lambda-golang.html)
 
 + [Deploy Go Lambda functions with .zip file archives](https://docs.aws.amazon.com/lambda/latest/dg/golang-package.html)
+
++ [AWS SDK for Go Documentation](https://docs.aws.amazon.com/sdk-for-go/index.html)
+
++ [aws-lambda-go example with Api Gateway events](https://github.com/aws/aws-lambda-go/blob/main/events/README_ApiGatewayEvent.md)
+
++ [using serverless framework with Api Gateway ](https://www.serverless.com/blog/framework-example-golang-lambda-support/)
